@@ -1,0 +1,19 @@
+{
+  "name": "elipse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "author": "Hortopan Alexandru",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hortopanalexandru/elipse-leftmenu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hortopanalexandru/elipse-leftmenu/issues"
+  },
+  "homepage": "https://github.com/hortopanalexandru/elipse-leftmenu#readme",
+  "description": ""
+}
